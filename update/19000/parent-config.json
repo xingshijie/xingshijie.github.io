@@ -1,5 +1,5 @@
 {
-  "lastVersionCode" : 9000,
+  "lastVersionCode" : 20000,
   "downloadUrl": "url",
   "releaseNotes": "应用更新说明a1adf，需要弹框",
   "minimumRequiredVersion": 9000, //如果当前版本号小于此版本，引导强制更新

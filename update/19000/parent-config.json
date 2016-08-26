@@ -1,6 +1,6 @@
 {
   "lastVersionCode" : 20000,
-  "downloadUrl": "url",
+  "downloadUrl": "http://www.alo7.com/mobile/axt/teacher",
   "releaseNotes": "应用更新说明a1adf，需要弹框",
   "minimumRequiredVersion": 9000, //如果当前版本号小于此版本，引导强制更新
   "isUpdateOnlyWifi": true, //现在采用系统的downloadManager来实现下载，umeng是采用自定义    DownloadingService extends android.app.Service来实现下载.....不晓得系统有木有wifi下载控制

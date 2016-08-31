@@ -1,6 +1,6 @@
 {
   "lastVersionCode" : 251,  //最新版本的版本号
-  "minimumRequiredVersion": 251, //如果当前版本号小于此版本，引导强制更新
+  "minimumRequiredVersion": 250, //如果当前版本号小于此版本，引导强制更新
   "downloadUrl": "http://www.wandoujia.com/apps/com.alo7.axt.parent/binding?source=wandoujia-web_direct_binded",
   "releaseNotes": "应用更新说明，需要弹框",
   "apkSize": 20.6 ,

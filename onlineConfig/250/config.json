@@ -1,5 +1,5 @@
 {
-  "lastVersionCode" : 20001,
+  "lastVersionCode" : 20002,
   "downloadUrl": "http://www.wandoujia.com/apps/com.alo7.axt.parent/binding?source=wandoujia-web_direct_binded",
   "releaseNotes": "应用更新说明a1adf，需要弹框",
   "minimumRequiredVersion": 200, //如果当前版本号小于此版本，引导强制更新
